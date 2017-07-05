@@ -1,7 +1,7 @@
-##Problem1:"1 error:src refspec master does not match any"
+### Problem1:"1 error:src refspec master does not match any"
  some forder does not has any file
 
-##create new repository and push local code
+### create new repository and push local code
 1、create new repository xxx in github.com
 2、locally, create directory xxx and cd xxx
 3. exe git init, indicate this dir is git dir
