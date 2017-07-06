@@ -10,3 +10,5 @@
 * copy ssh public key to github
 * git remote add origin git@github.com:tramsyck/xxx.git
 * git push -u origin master，commit local code to github
+
+add test
