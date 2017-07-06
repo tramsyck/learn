@@ -32,3 +32,6 @@ __这时粗体__
 
 ### 链接
 This is an [example links](https://www.google.com)
+
+
+I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].  
