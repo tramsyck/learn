@@ -11,4 +11,15 @@
 * git remote add origin git@github.com:tramsyck/xxx.git
 * git push -u origin master，commit local code to github
 
-add test
+
+# 分支操作
+## 创建分支
+   git branch xxx
+## 切换分支
+   git checkout xxx
+## 合并分支
+   切换到目标分支,git checkout master
+   执行合并：git merge xxx
+## 删除分支
+   git branch -d xxx
+####
