@@ -66,3 +66,4 @@ hello[^hello]
 
 
 `import test`
+import test
