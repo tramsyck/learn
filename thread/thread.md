@@ -13,4 +13,4 @@ is_alive, join(), run(), start(), terminate
 ### 属性：
 authkey, daemon,exitcode,name, pid.daemon是父进程终止后自动终止，且自己不能产生新进程，必须在start
 之前设置。
-
+i
