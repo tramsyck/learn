@@ -1,0 +1,32 @@
+# reboot笔记
+
+## 守护进程
+
+后台运行
+
+sesssion leader
+
+
+process group leader
+
+fork 一次或者2次
+
+防止产生僵尸进程
+
+孤儿进程：
+
+僵尸进程：
+
+
+
+chroot /
+
+umask
+
+
+细说多进程 多线程
+
+内存布局
+
+COW copy on write
+
