@@ -24,4 +24,5 @@
    git branch -d xxx
 ## 提交远程分支
    出现当前版本较早，可以这样做
-   + git push origin develop -f选项
+   
+   +  git push origin develop -f选项
