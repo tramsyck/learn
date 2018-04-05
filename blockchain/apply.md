@@ -45,6 +45,6 @@ Acade city
 
 ## 18、社交领域
    yeecall
-   消息通信
-   
- (https://www.zerohedge.com/news/2017-12-19/us-military-rushes-study-blockchain-hybrid-wars-loom)[US]
+   消息通信   
+ [US](https://www.zerohedge.com/news/2017-12-19/us-military-rushes-study-blockchain-hybrid-wars-loom)
+ [混合战争](https://www.zerohedge.com/news/2017-10-17/us-army-preparing-decades-hybrid-wars)
