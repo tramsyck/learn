@@ -41,3 +41,10 @@ Acade city
 ## 16、众筹
 
 ## 17、知识产权（音乐分享）
+亿书、steemit，音乐分享
+
+## 18、社交领域
+   yeecall
+   消息通信
+   
+ (https://www.zerohedge.com/news/2017-12-19/us-military-rushes-study-blockchain-hybrid-wars-loom)[US]
